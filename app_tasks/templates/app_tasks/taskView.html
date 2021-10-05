@@ -1,0 +1,14 @@
+{% extends "base.html" %} {% block content %}
+<ul class="collection">
+  {% if tasks %}
+
+    {% for task in tasks %}
+      <li class="collection-item">{{ task }} 
+        <a  data-id="{{ task.id }}" class="delete-item secondary-content"><i class="fa fa-remove"></i></a>
+      </li>
+    {% endfor %}
+
+  {% endif %}
+</ul>
+
+{% endblock %}
