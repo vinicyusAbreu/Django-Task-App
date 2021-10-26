@@ -3,6 +3,10 @@
 
 Projeto feito para usuário por uma tarefa, deletar tarefas e pesquisar alguma tarefa.
 
+## ✨ Demonstração    
+Veja abaixo um gif do projeto.</br>
+[![Image from Gyazo](https://i.gyazo.com/78514b30af5547e49e081e0e22e38f20.gif)](https://gyazo.com/78514b30af5547e49e081e0e22e38f20)
+
 Instalar Dependências
 
 ```
